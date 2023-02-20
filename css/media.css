@@ -1,0 +1,124 @@
+@media screen and (max-width: 992px) {
+  .card-title-span {
+    display: block;
+  }
+
+  .features-title {
+    font-size: 32px;
+  }
+
+  .features-desc-title {
+    font-size: 27px;
+    width: 100%;
+  }
+
+  .clients-title {
+    font-size: 30px;
+  }
+
+  .comment-img {
+    width: auto;
+    margin: 0 auto 20px;
+  }
+
+  .comments-text {
+    font-size: 20px;
+  }
+
+  .comments-author {
+    font-size: 14px;
+  }
+
+  .quote-left,
+  .quote-right {
+    font-size: 17px;
+  }
+
+  .carousel-indicators {
+    margin-top: 60px;
+  }
+
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+  .people-title {
+    font-size: 30px;
+  }
+
+  .people-info {
+    font-size: 14px;
+  }
+
+  .card-title {
+    font-size: 12px;
+  }
+
+  .card-title-span {
+    font-size: 9px;
+  }
+
+  .features-image {
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .features-desc {
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .quote-left {
+    top: 0;
+    left: 0;
+  }
+
+  .footer-text {
+    font-size: 10px;
+  }
+}
+
+
+@media screen and (max-width: 576px) {
+
+  .people-title {
+    font-size: 23px;
+    margin-top: 30px;
+  }
+
+  .people-info {
+    font-size: 14px;
+  }
+
+  .people-card-block {
+    width: 60%;
+    margin: 0 auto 30px;
+  }
+
+
+  .features-title {
+    font-size: 24px;
+  }
+
+  .features-desc-title {
+    font-size: 19px;
+  }
+
+  .features-link {
+    font-size: 14px;
+  }
+
+
+  .features-desc-text,
+  .comments-author {
+    font-size: 10px;
+  }
+
+  .comments-text {
+    font-size: 18px;
+  }
+}
